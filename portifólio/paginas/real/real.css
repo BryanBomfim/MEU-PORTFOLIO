@@ -1,0 +1,12 @@
+  .comeco{
+      background-color: orange;
+      align-items: center;
+      justify-content: center;
+      height:100px;
+      width: 100%;
+  }
+  .yt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
